@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/myCV-website/static/css/main.54bfc2ab.css",
+    "main.js": "/myCV-website/static/js/main.83a8fad8.js",
+    "static/media/pic.png": "/myCV-website/static/media/pic.a3abf7643dde327fa189.png",
+    "index.html": "/myCV-website/index.html",
+    "main.54bfc2ab.css.map": "/myCV-website/static/css/main.54bfc2ab.css.map",
+    "main.83a8fad8.js.map": "/myCV-website/static/js/main.83a8fad8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54bfc2ab.css",
+    "static/js/main.83a8fad8.js"
+  ]
+}
